@@ -1,0 +1,17 @@
+react toastify 
+npm i react-toastify >> this is to install react toastify 
+after installation add 
+ import 'react-toastify/dist/ReactToastify.css';
+ at index.js
+ and also add <ToastContainer/>
+ tostify and notification has the same use so we can use any of them and also are o same process.
+react tastify is one of the react packae while shows messae if we save delete or update and also if we make any changes to the website.
+for installin bbotstrap we need to install its package first 
+to install >> npm i bootstrap 
+after installation dont forget to look at the json file 
+after installation we need to import two bootstrap packages such as 
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.bundle.min.js'
+now if we want to make reactive bbotstrap then we need to install >> npm i react-bootstrap 
+
+

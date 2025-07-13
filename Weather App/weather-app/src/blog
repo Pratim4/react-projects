@@ -1,0 +1,16 @@
+weather app is the interesting app to make to learn about fetch api and promises , synchronous and asynchronous function.
+async and await function
+
+to install tailwind css 
+first install dev dependencies package of tailwind
+npm install -D tailwind 
+now create a configuration file in using the command "npx tailwind init" in the terminal.
+from the tailwind css documentation there we can find the file called tailwind.config.js now every content from that file is copied and pasted to the tailwind.config.js in your project folder.
+now add 3 utilities in index.css;
+now npm start your site 
+because tailwind will be only effective after restarting the server.
+In useEffect()
+we have to write 
+useEffect(()=>{
+    //this area is for call back function 
+},[//this part is fpr dependencies])
